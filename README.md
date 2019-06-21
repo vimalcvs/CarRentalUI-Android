@@ -5,9 +5,11 @@ Check out the new style for App Design aims for Car Rent...😉😀😁😎
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshots/Screenshot_20190620_181146_com.vimalinc.carrental.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_181141_com.vimalinc.carrental.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_181141_com.vimalinc.carrental.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/Screenshot_20190620_181130_com.vimalinc.carrental.jpg	" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_181130_com.vimalinc.carrental.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_181146_com.vimalinc.carrental.jpg" height="600" width="300" hspace="40">
+
 ## Contributing
 
 Please fork this repository and contribute back using
